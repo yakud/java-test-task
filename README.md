@@ -35,3 +35,5 @@ unique user_id: 2
 A:2
 B:1
 ```
+
+Нужно сделать Pull Request в репозиторий.
